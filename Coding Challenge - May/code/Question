@@ -1,0 +1,9 @@
+The Question is mentioned in the Yashaswi_Tamta-submission.py file.
+
+The current version uses local files to construct the requisite data structures.
+Fork the project and run the "python Yashaswi_Tamta-submission.py" command in the directory.
+
+Note that the text/word list was obtained from one Love's Labour's lost script, so it does contain some medieval latin words,
+which are usually long when compared to common english words.
+
+Star/watch for future updates.
