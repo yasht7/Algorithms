@@ -36,7 +36,7 @@ Observations:
 >> Starting to search the Letter Matrix form the longest word will help the algorithm to converge faster.
 
 Method:
-1. Storing the list of words from "Love's Labour's Lost" in a Dictionary where key will be the word and it';s length the value
+1. Storing the list of words from "Love's Labour's Lost" in a Dictionary where key will be the word and it's length, the value.
 This is done for two major reasons.
     - avoiding duplicates
     - keeping track of the length of the word
@@ -201,6 +201,5 @@ Output: "honorificabilitudinitatibus"
 Although this seems a weird word but on looking it up i found that this is a valid word in medieval Latin
 which means "the state of being able to achieve honours"
 * I cross checked this, manually, against the algorithm and this does exist in the question matrix.
-The screenshot is attached in the mail
 
 '''
